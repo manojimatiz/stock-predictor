@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+chart*.png
+.venv/
+venv/
+.claude/
