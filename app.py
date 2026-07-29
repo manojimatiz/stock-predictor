@@ -22,6 +22,8 @@ TICKERS = {
     "Gold (Global, USD/oz)": ("GC=F", "Commodity"),
     "Silver (Global, USD/oz)": ("SI=F", "Commodity"),
     "Copper (Global, USD/lb)": ("HG=F", "Commodity"),
+    "Gold ETF (GoldBeES, INR)": ("GOLDBEES.NS", "ETF"),
+    "Silver ETF (SilverBeES, INR)": ("SILVERBEES.NS", "ETF"),
 }
 
 
